@@ -2,6 +2,10 @@
 
 **CellMindAI** is an advanced Google Sheets integration that allows you to process and analyze your spreadsheet data using Claude AI. Turn your cells into intelligent insights with prompt-based analysis and multi-step prompt chains.
 
+
+[How to Video]([https://script.google.com/home](https://www.loom.com/share/b47788ef647044e8babb68e37bf1fae6?sid=8e5efe9b-8008-4199-9585-9001b6f26c89))
+
+
 ## Features
 
 - **Seamless Google Sheets Integration**: Add AI capabilities directly in your spreadsheets
